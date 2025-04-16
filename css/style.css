@@ -50,5 +50,14 @@ header {
 .home > img {
   width: 250px;
   border-radius: 50%;
-  margin-top: 30px;
+  margin-top: 50px;
+}
+
+.biodata {
+  display: flex;
+  justify-content: center;
+}
+
+.biodata > ul > li {
+  list-style-type: circle;
 }
